@@ -1,6 +1,12 @@
 ---
+# General options
 theme: jekyll-theme-minimal
 title: Welcome to @antoinezl 's Github Page
 description: This page references the works and projects that I have done during my Master's degree.
 ---
-Here is my page.
+
+
+# --- Footer options --- #
+
+author:
+  name: Antoine Lu @antoinezl
