@@ -14,7 +14,7 @@ Transcriptomics analysis () were executed (using RNA-seq data) for the fully ass
 A genome browser as been set up using the 'myGenomeBrowser' platform (only available for the APMC Team members at the moment).  
 Finally, a internal website has been developped in HTML5/CSS/jQuery to present the data and results obtained during the internship.
 
-The developped tools and the website are located on the 'develop' branch of my supervisor, [**HERE**](https://github.com/nlapalu/BioinfobiogerWebGenome/tree/develop)
+The developped tools and the website are located on the 'develop' branch of my supervisor's Github, [**HERE**](https://github.com/nlapalu/BioinfobiogerWebGenome/tree/develop)
 
 ---
 
