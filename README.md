@@ -6,7 +6,7 @@ For more information about myself, please check out the ['About me']() section.
 ---
 
 ## End of studies project:
-### 6 months internship at INRA (Plaisir Grignon, [AMPC Team]()) under the supervision of [Nicolas Lapalu](https://github.com/nlapalu) and [Richard O'Connell](https://www.researchgate.net/profile/Richard_OConnell).
+### 6 months internship at [INRA-BIOGER](https://www6.versailles-grignon.inra.fr/bioger) (Plaisir Grignon, AMPC Team) under the supervision of [Nicolas Lapalu](https://github.com/nlapalu) and [Richard O'Connell](https://www.researchgate.net/profile/Richard_OConnell).
 
 The aim of the internship was to test different genome assembly tools (PacBio's HGAP4 pipeline using Falcon and  which then allowed to set an assembly pipeline for two fungi (*Colletotrichum*).\
 At the term of the internship, the genome of one species was fully assembled whereas the second one is almost assembled.  
