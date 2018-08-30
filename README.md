@@ -1,12 +1,10 @@
-## Welcome to my GitHub Page
+## @antoinezl
 
-You can use the [editor on GitHub](https://github.com/antoinezl/antoinezl.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Antoine Lu and I have a Master's degree in Bioinformatics from [Université Paris Diderot]().
+For more information about myself, please check out the ['About me']() section.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### End of studies project: 6 months internship at INRA (Plaisir Grignon, [AMPC Team]()) under the supervision of [Nicolas Lapalu]() and [Richard O'Connell]().
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +26,17 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### "Projet Long": RNA Feature extraction, programming project in collaboration with PTER and [Costas Bouyioukos]().
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/antoinezl/antoinezl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+As part of the **Master's courses**, I collabored with the **PTER (Post Transcription ) Team** at Université Paris Diderot. The aim of the project was **to develop a tool that can allow one to extract defined features having a key role in determining whether a mRNA is commonly regulated or not**. This collaboration took place during the first semester of my second year of Master's degree. 
 
-### Support or Contact
+I was able to deliver a RNA feature extraction tool which takes **ENSEMBL ids** as input (as a list of ids) or a unique ID. The tool consists in 2 seperate **Python scripts** (**geneID2fasta.py** and **fasta2table.py**) and a library of functions called by the two previous scripts (**rnaFeaturesLib.py**).
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The tool returns large datasets of RNA features (Kozak sequence and context, folding energy of the UTRs, length of each UTRs, etc.) that can be used for further analyses.
+
+**_NOTE_**: The code (regulary updated, as other students are now working on the project) is available [**HERE**](https://github.com/parisepigenetics/rna_feat_ext/tree/develop_consolidation/mouse). 
+
+
+### About me
+
+.
