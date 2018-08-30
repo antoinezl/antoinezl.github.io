@@ -1,3 +1,7 @@
+---
 theme: jekyll-theme-minimal
-title: Welcome to @antoinezl 's Github Page
+title: Welcome to __@antoinezl__'s Github Page
 description: The main purpose of this page is to reference the works that have been done during my Master's degree.
+plugins:
+  - jekyll-avatar
+---
