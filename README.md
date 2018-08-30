@@ -23,7 +23,7 @@ The developped tools and the website are located on the 'develop' branch of my s
 ## "Projet Long"
 ### RNA Feature extraction, programming project in collaboration with PTER and [Costas Bouyioukos](https://github.com/cbouyio).
 
-As part of the **Master's courses**, I collabored with the **PTER (Post Transcription ) Team** at Université Paris Diderot. The aim of the project was **to develop a tool that can allow one to extract defined features having a key role in determining whether a mRNA is commonly regulated or not**. This collaboration took place during the first semester of my second year of Master's degree. 
+As part of the **Master's courses**, I collabored with the **(PTER - Post Transcriptional and Epigenetic Regulations) Team** at Université Paris Diderot. The aim of the project was **to develop a tool that can allow one to extract defined features having a key role in determining whether a mRNA is commonly regulated or not**. This collaboration took place during the first semester of my second year of Master's degree. 
 
 I was able to deliver a RNA feature extraction tool which takes **ENSEMBL ids** as input (as a list of ids) or a unique ID. The tool consists in 2 seperate **Python scripts** (**geneID2fasta.py** and **fasta2table.py**) and a library of functions called by the two previous scripts (**rnaFeaturesLib.py**).
 
