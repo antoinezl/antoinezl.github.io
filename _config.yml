@@ -1,7 +1,8 @@
+plugins:
+  - jekyll-avatar
 ---
 theme: jekyll-theme-minimal
 title: Welcome to __@antoinezl__'s Github Page
-description: The main purpose of this page is to reference the works that have been done during my Master's degree.
-plugins:
-  - jekyll-avatar
+{% avatar antoinezl %}
+description: This page references the works and projects that I have done during my Master's degree.
 ---
