@@ -1,8 +1,7 @@
 ---
 theme: jekyll-theme-minimal
 title: Welcome to @antoinezl 's Github Page
-plugins:
-  - jekyll-avatar
-{% avatar antoinezl %}
 description: This page references the works and projects that I have done during my Master's degree.
 ---
+plugins:
+  - jekyll-avatar
