@@ -1,5 +1,2 @@
 theme: jekyll-theme-minimal
-webrick:
-  headers:
-    My-Header: Welcome to @antoinezl Github Page
-    My-Other-Header: My-Other-Value
+plugins: jekyll-avatar
