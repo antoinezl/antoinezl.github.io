@@ -1,7 +1,7 @@
 ## @antoinezl
 
 My name is Antoine Lu and I have a Master's degree in Bioinformatics from [Université Paris Diderot](https://formation.univ-paris-diderot.fr/formations/master-biologie-informatiquebioinformatique).  
-For more information about myself, please check out the ['About me'](### About me) section.
+For more information about myself, please check out the ['About me'](#About me) section.
 
 ---
 
