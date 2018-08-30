@@ -1,32 +1,25 @@
 ## @antoinezl
 
-My name is Antoine Lu and I have a Master's degree in Bioinformatics from [Université Paris Diderot]().
+My name is Antoine Lu and I have a Master's degree in Bioinformatics from [Université Paris Diderot]().  
 For more information about myself, please check out the ['About me']() section.
 
-### End of studies project: 6 months internship at INRA (Plaisir Grignon, [AMPC Team]()) under the supervision of [Nicolas Lapalu]() and [Richard O'Connell]().
+---
 
+## End of studies project:
+### 6 months internship at INRA (Plaisir Grignon, [AMPC Team]()) under the supervision of [Nicolas Lapalu](https://github.com/nlapalu) and [Richard O'Connell](https://www.researchgate.net/profile/Richard_OConnell).
 
-```markdown
-Syntax highlighted code block
+The aim of the internship was to test different genome assembly tools (PacBio's HGAP4 pipeline using Falcon and  which then allowed to set an assembly pipeline for two fungi (*Colletotrichum*).\
+At the term of the internship, the genome of one species was fully assembled whereas the second one is almost assembled.  
+Transcriptomics analysis () were executed (using RNA-seq data) for the fully assembled genome.  
+A genome browser as been set up using the 'myGenomeBrowser' platform (only available for the APMC Team members at the moment).  
+Finally, a internal website has been developped in HTML5/CSS/jQuery to present the data and results obtained during the internship.
 
-# Header 1
-## Header 2
-### Header 3
+The developped tools and the website are located on the 'develop' branch of my supervisor, [**HERE**](https://github.com/nlapalu/BioinfobiogerWebGenome/tree/develop)
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### "Projet Long": RNA Feature extraction, programming project in collaboration with PTER and [Costas Bouyioukos]().
+## "Projet Long"
+### RNA Feature extraction, programming project in collaboration with PTER and [Costas Bouyioukos](https://github.com/cbouyio).
 
 As part of the **Master's courses**, I collabored with the **PTER (Post Transcription ) Team** at Université Paris Diderot. The aim of the project was **to develop a tool that can allow one to extract defined features having a key role in determining whether a mRNA is commonly regulated or not**. This collaboration took place during the first semester of my second year of Master's degree. 
 
@@ -36,7 +29,8 @@ The tool returns large datasets of RNA features (Kozak sequence and context, fol
 
 **_NOTE_**: The code (regulary updated, as other students are now working on the project) is available [**HERE**](https://github.com/parisepigenetics/rna_feat_ext/tree/develop_consolidation/mouse). 
 
+---
 
 ### About me
 
-.
+
