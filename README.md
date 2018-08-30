@@ -1,5 +1,4 @@
 ## Welcome to my GitHub Page
-{% avatar antoinezl %}
 
 You can use the [editor on GitHub](https://github.com/antoinezl/antoinezl.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
